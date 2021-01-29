@@ -1,16 +1,17 @@
-# VastgoedBeleggers
+# VastgoedBeleggers ✨
 
 VastgoedBeleggers is the a Dutch community where beginners and more advanced real estate investors meet to find and share structured knowledge.
 
-The client side of the project is built with React Typescript Sass
+👉 The client side of the project is built with React Typescript Sass
 
-The server side of the project build using Node.js Apollo Graphql Express MongoDB
+👉 The server side of the project build using Node.js Apollo Graphql Express MongoDB
 
-## Getting Started
+## Getting Started 🚀
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-For the ## Client
+For the  
+# Client🌟 
 
 ```
 git clone https://github.com/Vastgoedbeleggers/client.git
@@ -19,7 +20,7 @@ yarn install
 yarn start
 
 ```
-For the ## Server
+# Server🌟
 
 ```
 git clone https://github.com/Vastgoedbeleggers/server.git
