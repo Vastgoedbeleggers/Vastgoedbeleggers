@@ -25,9 +25,8 @@ yarn start
 ```
 git clone https://github.com/Vastgoedbeleggers/server.git
 cd server
-yarn install
-yarn start
- 
+npm install
+npm start
 ```
 
 
@@ -36,7 +35,7 @@ yarn start
 The things you need before installing the software.
 
 * Knowledge of React.js, Typescript, Sass
-* Apollo-server, Node.js, Express
+* Apollo-server, Node.js, Express, JWTs
 
 ### Installation🌟
 
@@ -100,7 +99,7 @@ Functions are short and accomplish a clear, specific task. As much as possible t
 Using any deprecated library or any deprecated methods are not allowed, you should follow the best practices of a framework or a library and avoid using any deprecated methods or any methods that warn you that it will be deprecated in the future and you should switch to another one.
 
 ## Other guidelines🌟
-Use yarn not npm
+Use npm for server not yarn, use yarn for client not npm
 Use Visual Studio Code and install the eslint extension as well as the prettier extension in their default configuration. Always follow the eslint recommendations.
 Make sure you use ample Commenting throughout your code
 Images are 1024x1024 and do not exceed 300kb for better website speed and to save database cost
